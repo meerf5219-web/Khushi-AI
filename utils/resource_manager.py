@@ -306,4 +306,32 @@ class ResourceManager:
 # ---------------------------------------------------------------------------
 # Singleton — import this everywhere:  from utils.resource_manager import RM
 # ---------------------------------------------------------------------------
+# ---- Startup diagnostics for frozen path troubleshooting ----
+# These are safe and help verify where bundle/data paths resolve in EXE.
+try:
+    _startup_diag = {
+        "cwd": os.getcwd(),
+        "file__": str(__file__),
+        "sys.frozen": getattr(sys, "frozen", None),
+        "has__meipass": hasattr(sys, "_MEIPASS"),
+        "sys._MEIPASS": getattr(sys, "_MEIPASS", None),
+    }
+except Exception:
+    _startup_diag = {"cwd": "unknown", "file__": "unknown"}
+
+try:
+    _rm_tmp = ResourceManager()
+    _startup_diag["bundle_dir"] = str(_rm_tmp._bundle)
+    # Try to log to standard logging first.
+    logger.info("[FrozenDiag] %s", _startup_diag)
+    # Also persist into writable logs if possible.
+    try:
+        _rm_tmp.logs().mkdir(parents=True, exist_ok=True)
+        with open(str(_rm_tmp.logs() / "frozen_path_diag.log"), "a", encoding="utf-8") as f:
+            f.write(str(_startup_diag) + "\n")
+    except Exception:
+        pass
+except Exception:
+    pass
+
 RM = ResourceManager()

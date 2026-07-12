@@ -13,20 +13,34 @@ from brain.speaking_engine.engine import AdaptiveSpeakingEngine, SpeechRequest, 
 
 logger = logging.getLogger(__name__)
 
-# Initialize the global adaptive speaking engine
-try:
-    speaking_engine = AdaptiveSpeakingEngine(use_pyttsx3=True)
-except Exception as e:
-    logger.error("Failed to initialize AdaptiveSpeakingEngine: %s", e)
-    # Provide a dummy fallback so it doesn't crash callers
-    from brain.speaking_engine.engine import SpeechRequest
-    class DummySpeakingEngine:
-        def speak(self, *args, **kwargs):
-            logger.warning("Speech suppressed due to engine failure.")
-            return SpeechRequest("dummy", text="dummy", engine="dummy")
-        def cancel(self):
-            pass
-    speaking_engine = DummySpeakingEngine()
+# Lazy global speaking engine init.
+# Avoid import-time audio initialization (can behave differently in frozen EXEs).
+_speaking_engine = None
+
+
+def _get_speaking_engine():
+    global _speaking_engine
+    if _speaking_engine is not None:
+        return _speaking_engine
+
+    try:
+        _speaking_engine = AdaptiveSpeakingEngine(use_pyttsx3=True)
+    except Exception as e:
+        logger.error("Failed to initialize AdaptiveSpeakingEngine: %s", e)
+        # Provide a dummy fallback so it doesn't crash callers
+        from brain.speaking_engine.engine import SpeechRequest
+
+        class DummySpeakingEngine:
+            def speak(self, *args, **kwargs):
+                logger.warning("Speech suppressed due to engine failure.")
+                return SpeechRequest("dummy", text="dummy", engine="dummy")
+
+            def cancel(self):
+                pass
+
+        _speaking_engine = DummySpeakingEngine()
+
+    return _speaking_engine
 # Module 4: per-turn flag set by OllamaProvider when it streams speech directly
 _has_spoken_in_turn: bool = False
 
@@ -44,7 +58,9 @@ def speak(
     Default block=True ensures the call waits until audio finishes.
     """
     logger.info("[SPEECH REQUESTED] text='%s...'", text[:60])
+    speaking_engine = _get_speaking_engine()
     req = speaking_engine.speak(
+
         text,
         profile=profile,
         style=style,
