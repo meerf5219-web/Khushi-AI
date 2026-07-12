@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "identity": {
+    "records": {}
+  },
+  "timeline": {
+    "records": []
+  },
+  "preferences": {
+    "records": {}
+  },
+  "goals": {
+    "records": {
+      "goals:upsc": {
+        "created_date": "2026-07-01T10:00:00Z",
+        "updated_date": "2026-07-01T10:00:00Z",
+        "confidence": 1.0,
+        "source": "user",
+        "category": "goals",
+        "payload": {
+          "value": "Crack UPSC",
+          "id": "goals:upsc"
+        }
+      }
+    }
+  },
+  "projects": {
+    "records": {
+      "projects:khushi": {
+        "created_date": "2026-07-01T10:00:00Z",
+        "updated_date": "2026-07-01T10:00:00Z",
+        "confidence": 1.0,
+        "source": "user",
+        "category": "projects",
+        "payload": {
+          "value": "Khushi AI",
+          "id": "projects:khushi"
+        }
+      }
+    }
+  },
+  "habits": {
+    "records": {}
+  },
+  "life_events": {
+    "records": []
+  },
+  "vehicles": {
+    "records": {}
+  },
+  "devices": {
+    "records": {}
+  },
+  "education": {
+    "records": {}
+  },
+  "career": {
+    "records": {}
+  },
+  "relationships": {
+    "records": {}
+  },
+  "health": {
+    "records": {}
+  },
+  "knowledge_references": {
+    "records": {}
+  }
+}

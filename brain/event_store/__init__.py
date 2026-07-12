@@ -1,0 +1,1 @@
+"""Raw Event Storage Pipeline."""

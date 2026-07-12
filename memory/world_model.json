@@ -1,0 +1,18 @@
+{
+    "nodes": {
+        "personal_1783708736_35da": {
+            "label": "personal",
+            "metadata": {
+                "value": "London",
+                "name": "location",
+                "created_at": 1783708736.557129,
+                "updated_at": 1783708736.5606248,
+                "updated": true
+            }
+        }
+    },
+    "graph": {
+        "personal_1783708736_35da": []
+    },
+    "edges": {}
+}

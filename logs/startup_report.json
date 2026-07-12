@@ -1,0 +1,2316 @@
+[
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\DLLs",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\tqdm-4.68.4.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohttp-3.14.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pythonwin",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hf_xet-1.5.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\jinja2-3.1.6.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx-0.28.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.5.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pillow-12.2.0.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pydantic-2.13.4.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\safetensors-0.8.0.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\torch-2.12.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip",
+    "operation": "os.listdir",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:744",
+    "success": false,
+    "error": "[WinError 3] The system cannot find the path specified: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python313.zip'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pillow-12.2.0.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pillow-12.2.0.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\site-packages\\\\pymupdf-1.27.2.3.dist-info\\\\top_level.txt'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\RECORD",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\Scripts\\pymupdf.exe",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\fitz\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\fitz\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\fitz\\__pycache__\\table.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\fitz\\__pycache__\\utils.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\fitz\\table.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\fitz\\utils.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\COPYING",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\INSTALLER",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\METADATA",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\README.md",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\RECORD",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\REQUESTED",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\WHEEL",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\entry_points.txt",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__main__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\__main__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\_apply_pages.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\_build.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\_wxcolors.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\extra.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\mupdf.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\pymupdf.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\table.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\__pycache__\\utils.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\_apply_pages.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\_build.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\_extra.pyd",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\_mupdf.pyd",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\_wxcolors.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\extra.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\classes.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\classes2.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\exceptions.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\extra.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\archive.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\band-writer.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\barcode.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\bidi.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\bitmap.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\buffer.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\color.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\compress.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\compressed-buffer.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\config.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\context.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\crypt.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\deskew.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\device.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\display-list.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\document.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\export.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\filter.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\font.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\geometry.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\getopt.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\glyph-cache.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\glyph.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\hash.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\heap-imp.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\heap.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\hyphen.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\image.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\json.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\link.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\log.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\outline.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\output-svg.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\output.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\path.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\pixmap.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\pool.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\separation.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\shade.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\store.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\story-writer.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\story.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\stream.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\string-util.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\structured-text.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\system.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\text.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\track-usage.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\transition.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\tree.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\types.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\util.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\version.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\write-pixmap.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\writer.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\fitz\\xml.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\functions.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\helpers\\mu-office-lib.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\helpers\\mu-threads.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\helpers\\pkcs7-openssl.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\html.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\internal.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\memento.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\annot.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\clean.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\cmap.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\crypt.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\document.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\event.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\font.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\form.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\image-rewriter.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\interpret.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\javascript.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\name-table.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\object.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\page.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\parse.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\recolor.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\resource.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\xref.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\pdf\\zugferd.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\include\\mupdf\\ucdn.h",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\lib\\libmuthreads.lib",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf-devel\\lib\\mupdfcpp64.lib",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdf.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\mupdfcpp64.dll",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\py.typed",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\pymupdf.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\table.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf\\utils.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pymupdf-1.27.2.3.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\site-packages\\\\pypdf-6.14.2.dist-info\\\\top_level.txt'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\RECORD",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\INSTALLER",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\METADATA",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\RECORD",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\REQUESTED",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\WHEEL",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\licenses\\LICENSE",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_cmap.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_doc_common.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_encryption.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_font.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_page.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_page_labels.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_protocols.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_reader.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_utils.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_version.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\_writer.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\constants.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\errors.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\filters.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\pagerange.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\papersizes.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\types.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\__pycache__\\xmp.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_cmap.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\_codecs.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\adobe_glyphs.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\core_font_metrics.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\pdfdoc.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\std.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\symbol.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\__pycache__\\zapfding.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\_codecs.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\adobe_glyphs.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\core_font_metrics.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\pdfdoc.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\std.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\symbol.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_codecs\\zapfding.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\__pycache__\\_base.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\__pycache__\\_cryptography.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\__pycache__\\_fallback.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\__pycache__\\_pycryptodome.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\_base.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\_cryptography.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\_fallback.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_crypt_providers\\_pycryptodome.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_doc_common.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_encryption.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_font.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_page.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_page_labels.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_protocols.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_reader.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\__pycache__\\_text_extractor.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__pycache__\\_fixed_width_page.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__pycache__\\_text_state_manager.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__pycache__\\_text_state_params.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_fixed_width_page.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_text_state_manager.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_text_state_params.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_text_extraction\\_text_extractor.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_utils.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_version.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\_writer.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\__pycache__\\_base.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\__pycache__\\_markup_annotations.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\__pycache__\\_non_markup_annotations.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\_base.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\_markup_annotations.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\annotations\\_non_markup_annotations.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\constants.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\errors.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\filters.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_appearance_stream.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_base.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_data_structures.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_files.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_fit.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_image_inline.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_image_xobject.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_link.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_outline.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_rectangle.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_utils.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\__pycache__\\_viewerpref.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_appearance_stream.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_base.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_data_structures.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_files.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_fit.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_image_inline.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_image_xobject.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_link.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_outline.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_rectangle.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_utils.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\generic\\_viewerpref.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\pagerange.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\papersizes.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\py.typed",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\types.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf\\xmp.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\Python\\Python313\\site-packages\\pypdf-6.14.2.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\Lib\\\\site-packages\\\\aiohappyeyeballs-2.7.1.dist-info\\\\top_level.txt'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\RECORD",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\INSTALLER",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\METADATA",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\RECORD",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\WHEEL",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\licenses\\LICENSE",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\__init__.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\__pycache__\\__init__.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\__pycache__\\_staggered.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\__pycache__\\impl.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\__pycache__\\types.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\__pycache__\\utils.cpython-313.pyc",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\_staggered.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\impl.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\py.typed",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\types.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs\\utils.py",
+    "operation": "Path.exists",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py:531",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohappyeyeballs-2.7.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohttp-3.14.1.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiohttp-3.14.1.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiosignal-1.4.0.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\aiosignal-1.4.0.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\altgraph-0.17.5.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\altgraph-0.17.5.dist-info\\METADATA",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\annotated_doc-0.0.4.dist-info\\top_level.txt",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\Lib\\\\site-packages\\\\annotated_doc-0.0.4.dist-info\\\\top_level.txt'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\annotated_doc-0.0.4.dist-info\\RECORD",
+    "operation": "Path.open",
+    "caller": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py:632",
+    "success": true

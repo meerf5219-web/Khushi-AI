@@ -1,0 +1,35 @@
+2026-07-10 17:46:17,408 [INFO] ui.app: Initializing Khushi Desktop GUI Application...
+2026-07-10 17:46:18,446 [INFO] ui.workers.loading_worker: [LOADING WORKER] Beginning Brain initialization...
+2026-07-10 17:46:18,673 [INFO] ui.splash: [SPLASH] Progress 10% — Loading settings and personality configurations...
+2026-07-10 17:46:18,680 [INFO] ui.splash: [SPLASH] Progress 25% — Initializing Adaptive Voice Engine...
+2026-07-10 17:46:18,686 [INFO] ui.splash: [SPLASH] Progress 45% — Loading Semantic SentenceTransformer models...
+2026-07-10 17:46:18,745 [INFO] comtypes.client._code_cache: Imported existing <module 'comtypes.gen' from 'C:\\Users\\faiza\\AppData\\Local\\Temp\\_MEI323402\\comtypes\\gen\\__init__.py'>
+2026-07-10 17:46:18,750 [INFO] comtypes.client._code_cache: Using writeable comtypes cache directory: 'C:\Users\faiza\AppData\Local\Temp\comtypes_cache\Khushi-313'
+2026-07-10 17:46:19,855 [INFO] voice.voice_engine: VoiceEngineV2: pyttsx3 singleton initialized.
+2026-07-10 17:46:20,103 [INFO] ui.splash: [SPLASH] Progress 70% — Restoring personal preferences & life memories...
+2026-07-10 17:46:50,335 [INFO] brain.intelligence.semantic_matcher: SemanticMatcher: loading sentence-transformer model (offline-first)...
+2026-07-10 17:46:50,346 [INFO] sentence_transformers.base.model: No device provided, using cpu
+2026-07-10 17:46:50,362 [INFO] sentence_transformers.base.model: Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-07-10 17:46:50,984 [INFO] brain.intelligence.semantic_matcher: SemanticMatcher: model loaded from local cache (no network).
+2026-07-10 17:46:50,988 [INFO] brain.intelligence.semantic_matcher: SemanticMatcher: model loaded in 0.65s
+2026-07-10 17:46:52,061 [INFO] brain.intelligence.semantic_matcher: SemanticMatcher: intent embeddings precomputed in 1.07s
+2026-07-10 17:46:52,067 [INFO] brain.intelligence.learning_engine: LearningEngine: Loaded 1 corrections from C:\Users\faiza\OneDrive\Desktop\project\project k\learning_corrections.json
+2026-07-10 17:46:52,161 [INFO] skills.search_web_skill: [SEARCH BACKEND] Using DuckDuckGo HTML fallback (duckduckgo_search not installed).
+2026-07-10 17:46:52,170 [ERROR] ui.workers.loading_worker: [LOADING WORKER] Failed to load Brain: [Errno 2] No such file or directory: 'C:\\Users\\faiza\\AppData\\Local\\Temp\\_MEI323402\\knowledge\\vector_store.py'
+Traceback (most recent call last):
+  File "ui\workers\loading_worker.py", line 49, in run
+    logger.info(f"[LOADING WORKER] Stage {module_name} completed in {duration:.3f}s")
+        ^^^^^^^
+  File "brain\brain.py", line 40, in __init__
+    self.context = _init_step("ContextManager", lambda: ContextManager())
+                  ^^^^^^^^^^^^^^
+  File "skills\skill_manager.py", line 33, in __init__
+    self.knowledge = KnowledgeSkill()
+                     ~~~~~~~~~~~~~~^^
+  File "skills\knowledge_skill.py", line 55, in __init__
+    embedder=self._embedder,
+  File "<frozen importlib._bootstrap_external>", line 1019, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1156, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1214, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\faiza\\AppData\\Local\\Temp\\_MEI323402\\knowledge\\vector_store.py'
+2026-07-10 17:46:52,191 [INFO] ui.splash: [SPLASH] Progress 0% — Error: [Errno 2] No such file or directory: 'C:\\Users\\faiza\\AppData\\Local\\Temp\\_MEI323402\\knowledge\\vector_store.py'

@@ -1,0 +1,3509 @@
+[
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\string.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\string.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\types.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:772",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\types.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\typing.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\typing.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\re\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:772",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\re\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\tomllib\\_types.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\tomllib\\\\_types.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\tomllib\\_re.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\tomllib\\\\_re.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\tomllib\\_parser.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\tomllib\\\\_parser.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\tomllib\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\tomllib\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\utils\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\utils\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\logging\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\logging\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\utils\\paths.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\utils\\\\paths.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\textwrap.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\textwrap.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\splash.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\splash.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\sidebar.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\sidebar.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\markdown.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\markdown.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\fnmatch.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\fnmatch.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\lexers\\_mapping.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\lexers\\\\_mapping.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\modeline.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\modeline.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\importlib\\metadata\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\importlib\\\\metadata\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\plugin.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\plugin.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\util.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\util.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\lexers\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\lexers\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\formatters\\_mapping.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\formatters\\\\_mapping.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\styles\\_mapping.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\styles\\\\_mapping.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\styles\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\styles\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\formatter.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\formatter.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\token.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\token.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\html\\entities.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\html\\\\entities.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\html\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\html\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\formatters\\html.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\formatters\\\\html.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pygments\\formatters\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pygments\\\\formatters\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\code_block_widget.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\code_block_widget.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\csv.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\csv.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\table_widget.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\table_widget.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\image_widget.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\image_widget.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\markdown_renderer.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\markdown_renderer.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\message_toolbar.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\message_toolbar.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\message_widget.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\message_widget.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\scroll_manager.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\scroll_manager.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\conversation_search.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\conversation_search.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\uuid.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\uuid.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\brain\\event_store\\interfaces.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\brain\\\\event_store\\\\interfaces.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\brain\\event_store\\sqlite_store.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\brain\\\\event_store\\\\sqlite_store.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\history_manager.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\history_manager.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\export_manager.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\export_manager.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\typing_indicator.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\typing_indicator.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\stream_renderer.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\stream_renderer.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\thinking_indicator.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\thinking_indicator.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\conversation_widget.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\conversation_widget.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\conversation\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\conversation\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\contextlib.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\contextlib.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\signal.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\signal.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\socket.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\socket.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\subprocess.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\subprocess.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\psutil\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\psutil\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\psutil\\_common.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\psutil\\\\_common.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\psutil\\_pswindows.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\psutil\\\\_pswindows.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\dashboard.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\dashboard.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\waveform.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\waveform.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\status.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\status.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\microphone.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\microphone.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\widgets\\settings.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\widgets\\\\settings.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\workers\\brain_worker.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\workers\\\\brain_worker.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\chunk\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\chunk\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\aifc\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\aifc\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\audioop\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\audioop\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\base64.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\base64.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\hashlib.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\hashlib.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\hmac.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\hmac.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\tempfile.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\tempfile.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\wave.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\wave.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\urllib\\error.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\urllib\\\\error.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\urllib\\parse.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\urllib\\\\parse.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\urllib\\request.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\urllib\\\\request.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\platform.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\platform.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\audio.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\audio.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\exceptions.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\exceptions.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\keyword.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:772",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\keyword.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\operator.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:772",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\operator.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\typing_extensions.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\typing_extensions.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\recognizers\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\recognizers\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\recognizers\\whisper_api\\base.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\recognizers\\\\whisper_api\\\\base.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\recognizers\\whisper_api\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\recognizers\\\\whisper_api\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\recognizers\\whisper_local\\base.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\recognizers\\\\whisper_local\\\\base.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\speech_recognition\\recognizers\\whisper_local\\__init__.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\speech_recognition\\\\recognizers\\\\whisper_local\\\\__init__.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\workers\\voice_worker.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\workers\\\\voice_worker.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\brain\\event_bus.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\brain\\\\event_bus.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\workers\\stream_worker.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\workers\\\\stream_worker.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\queue.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\queue.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\dataclasses.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\dataclasses.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\brain\\speaking_engine\\engine.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\brain\\\\speaking_engine\\\\engine.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\main_window.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\main_window.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\theme.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\theme.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\weakref.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:772",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\weakref.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\workers\\loading_worker.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\workers\\\\loading_worker.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\ui\\app.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\ui\\\\app.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pyttsx3\\engine.py",
+    "operation": "open",
+    "caller": "pyimod02_importers.py:520",
+    "success": false,
+    "error": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\faiza\\\\OneDrive\\\\Desktop\\\\project\\\\project k\\\\dist\\\\Khushi\\\\_internal\\\\pyttsx3\\\\engine.py'"
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\khushi_gui.log",
+    "operation": "open",
+    "caller": "logging\\__init__.py:1248",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi",
+    "operation": "os.path.exists",
+    "caller": "brain\\event_store\\sqlite_store.py:20",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\raw_events.db",
+    "operation": "sqlite3.connect",
+    "caller": "brain\\event_store\\sqlite_store.py:21",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\raw_events.db",
+    "operation": "sqlite3.connect",
+    "caller": "ui\\widgets\\conversation\\history_manager.py:34",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\raw_events.db",
+    "operation": "sqlite3.connect",
+    "caller": "brain\\event_store\\sqlite_store.py:73",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Temp\\comtypes_cache\\Khushi-313",
+    "operation": "os.path.exists",
+    "caller": "comtypes\\client\\_code_cache.py:78",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\companion\\companion_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\companion\\engine.py:68",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\learning_corrections.json",
+    "operation": "os.path.exists",
+    "caller": "brain\\intelligence\\learning_engine.py:40",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi",
+    "operation": "os.path.exists",
+    "caller": "brain\\event_store\\sqlite_store.py:20",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\raw_events.db",
+    "operation": "sqlite3.connect",
+    "caller": "brain\\event_store\\sqlite_store.py:21",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\knowledge\\index_state.json",
+    "operation": "os.path.exists",
+    "caller": "knowledge\\indexer.py:71",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\Khushi.exe",
+    "operation": "open",
+    "caller": "pyimod01_archive.py:119",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\raw_events.db",
+    "operation": "sqlite3.connect",
+    "caller": "brain\\event_store\\sqlite_store.py:73",
+    "success": true,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:22",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:26",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:22",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:26",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:22",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:26",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:22",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:26",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\PySide6\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:22",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.khushi\\memory\\user_memory.json",
+    "operation": "os.path.exists",
+    "caller": "memory\\memory.py:26",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\OneDrive\\Desktop\\project\\project k\\dist\\Khushi\\_internal\\pywin32_system32\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.gemini\\antigravity-ide\\bin\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\WINDOWS\\system32\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\WINDOWS\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\WINDOWS\\System32\\Wbem\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\WINDOWS\\System32\\OpenSSH\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Program Files\\nodejs\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Program Files\\Git\\cmd\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\.local\\bin\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Python\\Launcher\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Microsoft\\WindowsApps\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Antigravity IDE\\bin\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Roaming\\npm\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Antigravity IDE\\bin\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  },
+  {
+    "path": "C:\\Users\\faiza\\AppData\\Local\\Programs\\Ollama\\flac",
+    "operation": "os.path.exists",
+    "caller": "speech_recognition\\audio.py:317",
+    "success": false,
+    "error": null
+  }
+]

@@ -1,0 +1,22 @@
+# Build outputs
+dist/
+build/
+*.exe
+*.pkg
+
+# PyInstaller
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
