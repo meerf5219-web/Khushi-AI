@@ -1,22 +1,83 @@
-# Build outputs
-dist/
-build/
-*.exe
-*.pkg
-
-# PyInstaller
-*.spec.bak
-
 # Python
 __pycache__/
 *.pyc
-
-# Virtual environment
-.venv/
+*.pyo
+*.pyd
+.Python
+env/
 venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+*.ini
 
-# IDE
+# PyInstaller / Build
+build/
+dist/
+*.spec
+*.spec.bak
+*.exe
+*.pkg
+
+# Environments & Local Secrets
+.env
+.env.local
+.env.production
+.env.development
+.env.staging
+.env.test
+
+# IDEs and Editors
 .vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
 
-# Logs
+# OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# App Runtime Logs & Reports
 *.log
+logs/
+startup_error.log
+khushi_gui.log
+startup_report.*
+thread_report.json
+voice_report.json
+resource_report.json
+conversation_pipeline_report.json
+
+# Local Memory & SQLite Databases (Keep folder structure, ignore actual data files)
+memory/raw_events.db
+memory/user_memory.json
+memory/notes.json
+memory/world_model.json
+learning_corrections.json
+
+# Temporary / Generated folders
+screenshots/*
+!screenshots/.gitkeep
+downloads/*
+!downloads/.gitkeep
+exports/*
+!exports/.gitkeep
+temp/*
+!temp/.gitkeep
+uploads/*
+!uploads/.gitkeep
+database/*.db
+!database/.gitkeep
