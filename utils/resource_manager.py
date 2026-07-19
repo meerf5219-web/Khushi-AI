@@ -28,7 +28,10 @@ logger = logging.getLogger(__name__)
 
 def _is_frozen() -> bool:
     """Return True when running inside a PyInstaller frozen executable."""
-    return getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS")
+    # Prefer sys._MEIPASS detection; sys.frozen can be unreliable in some
+    # PyInstaller bootloader edge cases.
+    return hasattr(sys, "_MEIPASS")
+
 
 
 def _bundle_dir() -> Path:

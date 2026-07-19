@@ -1,0 +1,15 @@
+{
+  "description": "Modular, voice-activated desktop companion built with PySide6, featuring persistent memory, computer vision, intent-based routing, system automation, and a plugin/skills architecture.",
+  "topics": [
+    "assistant",
+    "ai-companion",
+    "voice-assistant",
+    "pyside6",
+    "desktop-automation",
+    "computer-vision",
+    "ocr",
+    "modular-architecture",
+    "python",
+    "agentic-ai"
+  ]
+}
