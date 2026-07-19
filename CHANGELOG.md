@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [4.15] - 2026-07-10
+## [1.0.0] - 2026-07-19
 ### Added
 - **Timeline Stage Logger**: Real-time logging of stages during GUI startup.
 - **Recovery Checkpoint System**: Diagnostic health checks and self-repairing config validation.
@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [4.14] - 2026-05-18
+## [1.0.0-rc1] - 2026-05-18
 ### Added
 - **Dynamic Plugin Sandbox**: Isolated execution runtime for third-party scripts.
 - **EasyOCR Core Integration**: High-precision screen scanning capability.
@@ -30,8 +30,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [4.0] - 2026-02-12
+## [1.0.0-beta] - 2026-02-12
 ### Added
-- **Generation 4 Release**: Complete rewrite of GUI components into PySide6.
+- **Generation 1 Release**: Complete GUI components in PySide6.
 - **Intent-based Routing**: Advanced routing system dynamically processing inputs across skills.
 - **Persistent SQLite memory**: Event logging into `raw_events.db`.

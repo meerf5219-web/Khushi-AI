@@ -4,10 +4,10 @@ import subprocess
 import platform
 
 APP_NAME = "Khushi AI"
-APP_VERSION = "4.15"
-GENERATION = "Generation 4"
+APP_VERSION = "1.0.0"
+GENERATION = "Generation 1"
 RELEASE_NAME = "Autonomous Companion"
-BUILD_DATE = "2026-07-10" # Release build date
+BUILD_DATE = "2026-07-19" # Release build date
 
 def get_git_commit() -> str:
     """Retrieves short git commit hash, falling back to a static hash in packaged state."""

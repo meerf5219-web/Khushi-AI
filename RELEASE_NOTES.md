@@ -1,10 +1,10 @@
-# Release Notes — Khushi AI v4.15 "Autonomous Companion"
+# Release Notes — Khushi AI v1.0.0 "Autonomous Companion"
 
-We are proud to announce the release of **Khushi AI v4.15 "Autonomous Companion"**. This update focuses on system robustness, automatic recovery, diagnostic reporting, and detailed execution profiling.
+We are proud to announce the stable open-source release of **Khushi AI v1.0.0 "Autonomous Companion"**. This update marks the initial stable release containing diagnostic reporting, robust recovery systems, desktop automation, and voice capabilities.
 
 ---
 
-## What's New in v4.15
+## What's New in v1.0.0
 
 ### 🛡️ Crash Recovery & Diagnostics Framework
 We've added a robust diagnostic layers that runs silently during application startup to detect missing or corrupted directories, invalid configuration schemas, and offline devices:
@@ -26,7 +26,7 @@ Improved mic and speaker discovery ensures that configuration changes do not cra
 
 ## How to Upgrade
 
-To upgrade your local copy to v4.15:
+To upgrade your local copy to v1.0.0:
 
 1. Pull the latest commits:
    ```bash

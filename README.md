@@ -1,163 +1,218 @@
 # 💜 Khushi AI — Autonomous Desktop Companion
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
-[![Framework: PySide6](https://img.shields.io/badge/UI-PySide6-darkgreen.svg)](https://pyside.org)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-violet.svg)](CONTRIBUTING.md)
+<div align="center">
+  
+  ```
+   _  ___               _     _      _   ___ 
+  | |/ / |__  _   _ ___| |__ (_)    / \ |_ _|
+  | ' /| '_ \| | | / __| '_ \| |   / _ \ | | 
+  | . \| | | | |_| \__ \ | | | |  / ___ \| | 
+  |_|\_\_| |_|\__,_|___/_| |_|_| /_/   \_\___|
+  ```
+  
+  *Your Offline-First, Privacy-Preserving Intelligent Desktop Orchestrator & Autonomous Assistant*
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+  [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
+  [![Framework: PySide6](https://img.shields.io/badge/UI-PySide6-darkgreen.svg)](https://pyside.org)
+  [![Build Target: Windows](https://img.shields.io/badge/OS-Windows%2010%20%2F%2011-blue.svg)](https://microsoft.com/windows)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-violet.svg)](CONTRIBUTING.md)
 
-Khushi AI is a professional, modular, voice-activated desktop assistant and autonomous companion built on PySide6 and Python. Designed to run locally on your system, Khushi acts as an intelligent layer between you and your machine, integrating persistent memory, custom skills, voice interaction, and desktop automation into a seamless experience.
-
----
-
-## 🚀 Key Features
-
-- 🗣️ **Natural Voice Interaction**: High-fidelity speech recognition and custom Text-to-Speech (TTS) engine, with automatic fallback systems.
-- 🧠 **Persistent Memory System**: A sophisticated multi-tier memory system utilizing SQLite (`raw_events.db`), user profiles (`user_memory.json`), and a conceptual `world_model.json`.
-- ⚙️ **Modular Skills Engine**: Dynamic intent routing for seamless activation of plugins and custom capabilities.
-- 🖥️ **Desktop Automation**: System-level controls for volume, screen brightness, clipboard management, screenshots, keyboard emulation, and mouse control.
-- 🔍 **File Search & Retrieval**: Instantly searches common user folders (Desktop, Documents, Downloads, etc.) for requested files.
-- 🌤️ **Weather & Calculator Tools**: Extensible weather API client with provider abstraction and a robust algebraic/percentage calculator engine.
-- 👁️ **Computer Vision & OCR**: Active screen capture, overlay drawing, and high-performance Optical Character Recognition (OCR) powered by OpenCV and EasyOCR.
-- 🔌 **Dynamic Plugin System**: Sandboxed execution runtime allowing developers to write third-party modules safely.
-
----
-
-## 📁 System Architecture & Directory Structure
-
-Here is a conceptual overview of how Khushi AI is organized:
-
-```
-project k/
-├── .github/                   # GitHub community configuration, templates & metadata
-├── AI/                        # Core AI intelligence and model orchestration
-├── agents/                    # Multi-agent collaboration frameworks
-├── api/                       # Local FastAPI web server routes and runners
-├── app/                       # Startup orchestrators and system initializers
-├── assets/                    # Graphical resources, icons, and theme assets
-├── automation/                # Mouse, keyboard, and OS interface controllers
-├── brain/                     # Intent router, event bus, decision engine, context pipeline
-├── companion/                 # Social/emotional behavior & personality management
-├── config/                    # Global app configuration and JSON files
-├── dashboard/                 # System statistics tracking and reporting
-├── database/                  # SQLite storage targets
-├── devices/                   # External device bridges (e.g., OBD integrations)
-├── memory/                    # Persistent storage managers, world model, user profiles
-├── planner/                   # Task scheduling and execution strategies
-├── plugins/                   # Developer sandbox and third-party SDK
-├── providers/                 # API integrations (e.g., weather providers)
-├── skills/                    # Python-based intent executors (e.g., calculator, weather, notes)
-├── tests/                     # Comprehensive PyTest test suite
-├── ui/                        # PySide6 desktop views, custom widgets, styling, and splash screen
-├── utils/                     # Resource management, recovery, and logging utilities
-├── vision/                    # OCR engines, camera control, capture tools, and screen overlays
-└── voice/                     # Audio capture (mic listeners) and voice synthesis (speakers)
-```
+</div>
 
 ---
 
-## 🛠️ Requirements & System Dependencies
+## 📖 Introduction & Why This Project Exists
 
-Before installing, ensure your development machine meets the following criteria:
+Most modern virtual assistants and AI companions depend entirely on cloud APIs, transmitting your keystrokes, voice recordings, and personal data to remote servers. This introduces latency, breaks when offline, and compromises privacy.
 
-- **Operating System**: Windows (tested on Windows 10/11)
-- **Python**: version 3.10 to 3.12 (standard packages depend on Windows APIs)
-- **PortAudio**: Needed for speech recognition and microphone streams (`pyaudio`).
+**Khushi AI** is designed to solve this. It is a desktop assistant that runs locally on your machine, leveraging offline-first components (like local Speech-to-Text and native Windows Text-to-Speech) alongside system-level control layers. It functions as an intelligent interface between you and your operating system—automating workflows, executing tasks, and preserving memory without exposing your personal information to the internet.
+
+---
+
+## 🚀 Core Features
+
+- 🗣️ **Intelligent Voice Routing**: High-fidelity local voice recording (`voice/listener.py`) coupled with a fast SAPI5/eSpeak TTS wrapper (`voice/speaker.py`).
+- 🧠 **Dynamic Intent Matching**: Intent-based keyword parsing and regex matching that maps user commands to target modules.
+- ⚙️ **OS & UI Automation**: Safe simulation of mouse movements (`automation/mouse.py`), key presses (`automation/keyboard.py`), clipboard manipulation, and active window management.
+- 📁 **System Skill Integrations**: Launching programs, mathematical operations, local notes tracking, and recursive file scanning in desktop environments.
+- 🔌 **Sandboxed Plugin SDK**: Run third-party extensions in isolated runtime threads (`plugins/sandbox.py`) with permissions checks.
+- 📈 **Performance Dashboard**: Real-time system resource tracking (CPU, RAM, Battery) with interactive charting inside the PySide6 application.
+- 🔒 **Encrypted Memory Backup**: AES-256 (Fernet) backup utility to secure logs, profile settings, and notes using PBKDF2 cryptography.
+- 🚗 **OBD-II Vehicle Telemetry**: Native scanner support for ELM327 Bluetooth/USB adapters to read real-time engine codes, speed, load, and coolant metrics.
+
+---
+
+## 🛠️ System Requirements & Setup
+
+- **Operating System**: Windows 10 or 11 (due to `comtypes` and `pywin32` dependencies).
+- **Python**: version 3.10 to 3.12.
+- **PortAudio**: Ensure your computer has audio inputs and outputs active.
 
 ---
 
 ## 📦 Installation
 
-To get a local copy of Khushi AI up and running, follow these steps:
+Initialize your developer environment using our bootstrap script or perform it manually:
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/khushi-ai.git
-cd khushi-ai
-```
-
-### 2. Set Up a Virtual Environment
-We recommend using Python's built-in virtual environment (`venv`):
+### Automatic Bootstrap (PowerShell)
 ```powershell
-python -m venv .venv
-.venv\Scripts\activate
+.\scripts\bootstrap.ps1
 ```
 
-### 3. Install Python Dependencies
-Install the required packages listed in `requirements.txt`:
-```powershell
-pip install -r requirements.txt
-```
+### Manual Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/meerf5219-web/Khushi-AI.git
+   cd Khushi-AI
+   ```
+2. **Create & Activate Virtual Environment**:
+   ```powershell
+   python -m venv .venv
+   .venv\Scripts\activate
+   ```
+3. **Install Requirements**:
+   ```powershell
+   pip install -r requirements.txt
+   ```
 
 ---
 
 ## 🚦 Quick Start
 
 To launch the desktop interface:
-
 ```powershell
 python main.py
 ```
 
-### 🛠️ Debug Mode
-To run the assistant with detailed logging enabled and startup diagnostics:
+### Debug & Diagnostic Logs
+To run the assistant with real-time timeline logging and debug consoles:
 ```powershell
 python main.py --debug
 ```
 
-During startup, Khushi will:
-1. Verify system resources and database health.
-2. Initialize PySide6 and display a splash loading screen.
-3. Warm up the speech synthesis engine.
-4. Welcome you back and stand ready to assist.
+---
+
+## 📁 Repository Directory Structure
+
+```
+Khushi-AI/
+├── .github/                   # GitHub Issue/PR Templates & Metadata
+├── AI/                        # Machine learning model adapters
+├── agents/                    # Collaborative agent logic & patterns
+├── api/                       # Local FastAPI web server endpoints & routes
+├── app/                       # Program launch orchestrators
+├── assets/                    # Graphic files, visual specs & layout spec sheets
+│   └── visuals.md
+├── automation/                # Emulation helpers (Keyboard, mouse, window active)
+├── brain/                     # Cognitive intent-matching & request pipelines
+├── companion/                 # Personality management & dialogue systems
+├── docs/                      # Extensive specifications & API guides
+│   ├── ARCHITECTURE.md        # Technical architecture specifications
+│   ├── api_documentation.md   # API endpoint documentation
+│   ├── developer_guide.md     # Code guidelines and testing
+│   ├── TODO_PHASE2A.md        # Startup diagnostics work list
+│   └── user_guide.md          # User manual and mobile pairing instructions
+├── examples/                  # Standard implementation code blocks
+├── memory/                    # SQLite, WorldModel, and JSON profile sync
+├── planner/                   # Strategy templates & action scheduling
+├── plugins/                   # Safe custom extension loader SDK
+├── providers/                 # API client integrations
+├── scripts/                   # Developer bootstrap helper files
+├── skills/                    # Functional intent skills (calc, screenshot, weather)
+├── tests/                     # Standard unit/integration pytest files
+├── ui/                        # PySide6 components, stylesheet styling, widgets
+├── utils/                     # System profiling, recovery, & updater files
+├── vision/                    # Screen scanners and EasyOCR adapters
+└── voice/                     # Audio interfaces (speaker, listener)
+```
+
+For a detailed walkthrough of each directory and system module, refer to the [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) guide.
 
 ---
 
-## 📸 Screenshots & Interface Visuals
+## ⚙️ Configuration & Environment Variables
 
-*Below is a placeholder indicating where user-interface screenshots reside:*
+Settings are configured via the in-app **Settings panel** (`ui/widgets/settings.py`) or manually via configuration files under `memory/user_memory.json`.
 
-```
-[ Splash Loading Screen ] ──> [ Main Assistant Workspace ] ──> [ Active Automation Overlay ]
-       (ui/splash.py)                 (ui/main_window.py)                (ui/widgets/)
-```
-All runtime screenshots taken by the assistant are saved in the `screenshots/` directory.
+| Parameter | Type | Default | Description |
+| --------- | ---- | ------- | ----------- |
+| `theme` | String | `"dark"` | Application window styling (`dark`, `purple`). |
+| `tts_rate` | Integer | `150` | Words-per-minute speed of SAPI5 speech synthesis. |
+| `api_port` | Integer | `8000` | Local port binding for Uvicorn REST API server. |
+| `paired_clients` | List | `[]` | List of paired mobile client fingerprints. |
 
 ---
 
-## 🗺️ Development Roadmap
+## 🖼️ Application Interfaces (Screenshots)
 
-- [x] **Phase 1: Foundation**: Basic desktop GUI, PySide6 wrappers, local SQLite databases.
-- [x] **Phase 2: Intent-based Core**: Dynamic voice recognition and skill managers.
-- [x] **Phase 2A (Current)**: Diagnostic framework implementation (Timeline logging, recovery checkpoints, system health reporting).
-- [ ] **Phase 3: Deep Vision integration**: Real-time object recognition and screen overlay interaction.
-- [ ] **Phase 4: cloud-synchronized model sync**: Enable remote companion control via mobile endpoints.
+Refer to [assets/visuals.md](assets/visuals.md) for detailed descriptions, component breakdowns, and path references for our key user interfaces:
+- **Application Home**: Central dashboard metrics and system resources.
+- **Chat Window**: Multi-bubble dialog container with waveform animations.
+- **Voice Assistant**: Standby mode overlays with frequency charts.
+- **Settings**: System configurations, OBD-II toggles, and client keys.
+- **Terminal View**: Real-time thread diagnostics and recovery checkpoints.
+
+---
+
+## 🏗️ System Architecture
+
+Khushi AI uses an event-driven, decoupled system architecture:
+- **Intent Router**: Passes parsed input strings directly to the registered skill managers.
+- **Pub/Sub Bus**: A thread-safe EventBus singleton coordinates cognitive nodes.
+- **AES-256 Storage**: Flat-file JSON buffers sync memory to disk, backed up on command.
+
+Read the full architecture spec at **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**.
+
+---
+
+## 🗺️ Project Roadmap
+
+- **v1.0.x (Current stable)**: Core PySide6 dashboard, diagnostics timeline, and standard open-source documentation package.
+- **v1.1.x (Automation)**: Enhanced OCR visual overlays, isolated dynamic plugin installers.
+- **v1.2.x (Mobile Pairing)**: Encrypted LAN WebSocket streams with paired React Native clients.
+- **v2.0.x (Cognitive Core)**: Local LLM integration (llama.cpp) for total offline chat processing.
+
+See details in **[ROADMAP.md](ROADMAP.md)**.
+
+---
+
+## ❓ FAQ & Troubleshooting
+
+### Q: Why does the app fail to start on `pyaudio`?
+**A**: Ensure PortAudio is installed on your OS. For Windows, pip wheels usually package it, but you may need to grant microphonic access in Windows Settings under Privacy -> Microphone.
+
+### Q: How do I resolve startup crash loops?
+**A**: Run the recovery tool check to clean corrupted memory files:
+```powershell
+python -c "from utils.recovery import CrashRecoverySystem; CrashRecoverySystem().run_health_check_and_repair()"
+```
+
+### Q: How can I access the API from my local network?
+**A**: Toggle "Allow LAN access" in Settings, which binds the FastAPI server to `0.0.0.0`. Use the autogenerated Pairing Link to pair mobile clients.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community an amazing place to learn and build. Read our **[CONTRIBUTING.md](CONTRIBUTING.md)** guidelines to get started.
 
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for setup steps, testing workflows, and branching strategies.
+---
+
+## 🔒 Security
+
+We prioritize user security and data privacy. To report vulnerabilities, refer to **[SECURITY.md](SECURITY.md)**.
+
+---
+
+## 👥 Credits & Contact
+
+- **Lead Developer**: Faisal
+- **Contributors**: The Khushi AI Open Source Contributors
+- **Inspirations**: Contributor Covenant, Contributor guidelines, and Python PySide6 projects.
 
 ---
 
 ## 📜 License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
-## ❓ FAQ
-
-#### Q: Which voice engine does Khushi use?
-A: Khushi defaults to the Windows native TTS engine (via `pyttsx3`) for speed and reliability, but falls back to a python-native helper stream in case of device configuration issues.
-
-#### Q: Where are my notes and conversation logs stored?
-A: All notes are stored in `memory/notes.json` and system profiles are kept in `memory/user_memory.json` locally on your system.
-
-#### Q: How can I write custom skills?
-A: You can easily add a python file in the `skills/` folder implementing the standard skill interface and register it via `skills/skill_manager.py`.
-
-#### Q: Does it require an internet connection?
-A: Core tasks like calculating, clipboard control, screenshots, and local file searches are completely offline. Network queries like web searching and weather reports require an active internet connection.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more details.

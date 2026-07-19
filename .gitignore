@@ -60,6 +60,9 @@ thread_report.json
 voice_report.json
 resource_report.json
 conversation_pipeline_report.json
+err.txt
+out.txt
+demo.txt
 
 # Local Memory & SQLite Databases (Keep folder structure, ignore actual data files)
 memory/raw_events.db
