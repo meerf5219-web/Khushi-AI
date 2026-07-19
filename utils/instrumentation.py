@@ -397,9 +397,62 @@ except ImportError:
     pass
 
 # 11. torch (torch.load)
+# IMPORTANT: Torch DLL load failures in packaged builds raise OSError (e.g., WinError 126),
+# not ImportError. Never allow this to crash startup.
+# Minimal stability fix: guard torch import + log full failure (append-only) and continue.
+
+torch = None
+_torch_import_failure_logged = False
+
+
+def _append_torch_import_failure_to_log(exc: BaseException) -> None:
+    global _torch_import_failure_logged
+    if _torch_import_failure_logged:
+        return
+    _torch_import_failure_logged = True
+
+    try:
+        # ISO-8601 UTC timestamp
+        import datetime
+        ts = datetime.datetime.now(datetime.timezone.utc).isoformat()
+
+        tb_str = ""
+        try:
+            tb_str = "".join(traceback.format_exception(type(exc), exc, exc.__traceback__))
+        except Exception:
+            tb_str = str(exc)
+
+        # Append-only (never overwrite existing logs)
+        logs_dir = _get_logs_dir()
+        log_path = os.path.join(logs_dir, "startup_report.log")
+
+        header = (
+            "==================================================\n"
+            "TORCH IMPORT FAILURE\n"
+            "==================================================\n"
+            f"Timestamp: {ts}\n"
+            f"Exception Type: {type(exc).__name__}\n"
+            f"Exception Message: {exc}\n"
+            "Traceback:\n\n"
+            f"{tb_str}\n"
+            "==================================================\n"
+        )
+
+        with InstrumentationGuard():
+            with original_open(log_path, "a", encoding="utf-8") as f:
+                f.write(header)
+    except Exception:
+        # Never break startup because torch is unavailable.
+        pass
+
+
 try:
-    import torch
+    # Guarded lazy import
+    import torch as _torch
+
+    torch = _torch
     original_torch_load = torch.load
+
     def instrumented_torch_load(f, *args, **kwargs):
         if is_instrumenting():
             return original_torch_load(f, *args, **kwargs)
@@ -422,9 +475,17 @@ try:
                 if isinstance(e, FileNotFoundError):
                     handle_fnf(abs_path, e)
                 raise
+
     torch.load = instrumented_torch_load
-except ImportError:
-    pass
+except (ImportError, OSError) as e:
+    # ImportError for missing torch; OSError for DLL load failures (WinError 126)
+    _append_torch_import_failure_to_log(e)
+    torch = None
+except Exception as e:
+    # Any unexpected torch initialization exception
+    _append_torch_import_failure_to_log(e)
+    torch = None
+
 
 # 12, 13, 14, 15. PySide6 QPixmap, QIcon, QMovie, QFontDatabase
 try:
@@ -586,4 +647,147 @@ def generate_final_report():
             except Exception:
                 pass
 
+def _safe_write_text(path: str, text: str) -> None:
+    try:
+        with original_open(path, "a", encoding="utf-8") as f:
+            f.write(text)
+    except Exception:
+        pass
+
+
+def _safe_write_json(path: str, payload: object) -> None:
+    try:
+        with original_open(path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2)
+            f.flush()
+    except Exception:
+        pass
+
+
+def _collect_runtime_context(startup_stage: str | None = None) -> dict:
+    # Keep this intentionally lightweight.
+    ctx = {
+        "timestamp": None,
+        "pid": None,
+        "thread_id": None,
+        "thread_name": None,
+        "python_version": sys.version,
+        "executable": str(getattr(sys, "executable", "")),
+        "frozen": _is_frozen() if hasattr(sys, "frozen") or hasattr(sys, "_MEIPASS") else False,
+        "_MEIPASS": getattr(sys, "_MEIPASS", ""),
+        "startup_stage": startup_stage,
+        "process_mode": "frozen" if _is_frozen() else "source",
+    }
+    try:
+        import datetime
+        ctx["timestamp"] = datetime.datetime.now().isoformat()
+    except Exception:
+        ctx["timestamp"] = None
+
+    try:
+        ctx["pid"] = os.getpid()
+    except Exception:
+        ctx["pid"] = None
+
+    try:
+        ctx["thread_id"] = threading.get_ident()
+        ctx["thread_name"] = threading.current_thread().name
+    except Exception:
+        ctx["thread_id"] = None
+        ctx["thread_name"] = None
+
+    return ctx
+
+
+def _write_crash_entry(exc_type, exc_value, exc_tb, *, extra: dict | None = None) -> None:
+    # Lightweight + failure-safe.
+    try:
+        logs_dir = _get_logs_dir()
+        crash_path = os.path.join(logs_dir, "crash.log")
+        thread_report_path = os.path.join(logs_dir, "thread_report.json")
+        os.makedirs(logs_dir, exist_ok=True)
+
+        tb_str = "".join(traceback.format_exception(exc_type, exc_value, exc_tb))
+        entry = {
+            **_collect_runtime_context(extra.get("startup_stage") if extra else None),
+            "completion_status": "FAILED",
+            "exception_type": getattr(exc_type, "__name__", str(exc_type)),
+            "exception_value": str(exc_value),
+            "traceback": tb_str,
+        }
+        if extra:
+            entry.update({k: v for k, v in extra.items() if v is not None and k not in entry})
+
+        _safe_write_text(crash_path, "\n" + "=" * 60 + "\n" + json.dumps(entry, ensure_ascii=False) + "\n")
+
+        # Thread report is a JSON array of entries.
+        try:
+            existing = []
+            if os.path.exists(thread_report_path):
+                with original_open(thread_report_path, "r", encoding="utf-8") as f:
+                    existing = json.load(f)
+                    if not isinstance(existing, list):
+                        existing = []
+            existing.append(entry)
+            _safe_write_json(thread_report_path, existing)
+        except Exception:
+            # Never fail crash logging.
+            pass
+    except Exception:
+        pass
+
+
+def _install_exception_hooks() -> None:
+    # Capture main-thread uncaught exceptions.
+    def _sys_excepthook(exc_type, exc_value, exc_tb):
+        try:
+            _write_crash_entry(exc_type, exc_value, exc_tb, extra={"source": "sys.excepthook"})
+        except Exception:
+            pass
+        # Never suppress default behavior.
+        return sys.__excepthook__(exc_type, exc_value, exc_tb)
+
+    sys.excepthook = _sys_excepthook
+
+    # Capture background thread exceptions.
+    def _thread_excepthook(args):
+        try:
+            _write_crash_entry(args.exc_type, args.exc_value, args.exc_traceback, extra={
+                "source": "threading.excepthook",
+                "thread_name": getattr(args.thread, "name", None) if hasattr(args, "thread") else None,
+                "thread_id": getattr(args.thread, "ident", None) if hasattr(args, "thread") else None,
+            })
+        except Exception:
+            pass
+        # Never suppress.
+
+    threading.excepthook = _thread_excepthook
+
+    # Capture non-exception issues.
+    def _unraisablehook(unraisable):
+        try:
+            # unraisable.exc_value may be None
+            exc_type = type(unraisable.exc_value) if unraisable.exc_value is not None else RuntimeError
+            exc_value = unraisable.exc_value if unraisable.exc_value is not None else RuntimeError(str(unraisable.obj))
+            tb = None
+            _write_crash_entry(exc_type, exc_value, tb, extra={
+                "source": "sys.unraisablehook",
+                "unraisable_obj": repr(unraisable.obj),
+                "unraisable_name": getattr(unraisable, "name", None),
+            })
+        except Exception:
+            pass
+
+    try:
+        sys.unraisablehook = _unraisablehook
+    except Exception:
+        pass
+
+
+try:
+    _install_exception_hooks()
+except Exception:
+    pass
+
 atexit.register(generate_final_report)
+
